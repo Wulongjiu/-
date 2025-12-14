@@ -1,5 +1,5 @@
 {
-  "name": "沉砂池设计计算器",
+  "name": "grit-chamber-designer",
   "description": "基于给排水设计规范的沉砂池（平流式、曝气式、竖流式）设计工具，用于计算处理水量及池体尺寸。",
   "requestFramePermissions": []
 }
